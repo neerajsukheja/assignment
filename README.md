@@ -1,6 +1,5 @@
-# CME Assignmnet
+# CME Assignmnet [Created Using Modern React JS Hooks]
 Online Ordering Single Page Application(SPA) for a nutritional and delicious Salad Shop.
-**Created Using Modern React JS Hooks **
 
 ## Package Used
 
@@ -30,8 +29,8 @@ Online Ordering Single Page Application(SPA) for a nutritional and delicious Sal
  - [Optional] Update public/ingredients.json file to add/update ingredients. 
  
 ### Useful Links
- - [Watch Installation Video]()
+ - [Watch Installation Video](https://drive.google.com/file/d/1i6Q7F8wa-pMdVZ9SnC9YI8liAXjN2Xww/view)
  
- - [Watch Assignmnet Demo]()
+ - [Watch Assignmnet Demo](https://drive.google.com/file/d/1tFzCZs9mbXUbmX3yRYXSzPKCJiubmCzK/view)
  
- - [Live Assignmnet Link]()
+ - [Live Assignmnet Link](http://neerajsukheja.com/assignment)
